@@ -1,0 +1,25 @@
+{
+  "name": "learningreact",
+  "version": "1.0.0",
+  "description": "Hello learnig react from start",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaikwadpankaj2207/MernStackProgram.git"
+  },
+  "keywords": [
+    "cuvette"
+  ],
+  "author": "Pankaj Gaikwad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaikwadpankaj2207/MernStackProgram/issues"
+  },
+  "homepage": "https://github.com/gaikwadpankaj2207/MernStackProgram#readme",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  }
+}
